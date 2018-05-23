@@ -7,11 +7,11 @@ Cette application est un chat instantané réalisé avec Nodejs, elle s'inspire 
 <table><tr>
 <td width="25%">
 Login page
-<img src="https://github.com/gabriel-TheCode/socket.io-chat/blob/master/public/chat-login.PNG" width="200" alt="Login">
+<img src="https://github.com/gabriel-TheCode/socket.io-chat/blob/master/public/chat-login.PNG" alt="Login">
 </td>
 <td width="25%">
 Chat page
-<img src="https://github.com/gabriel-TheCode/socket.io-chat/blob/master/public/chat-login.PNG" width="200" alt="Chat page">
+<img src="https://github.com/gabriel-TheCode/socket.io-chat/blob/master/public/chat.PNG" alt="Chat page">
 </td>
 </tr></table>
 
